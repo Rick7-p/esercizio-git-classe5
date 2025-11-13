@@ -4,4 +4,5 @@ int main(){
 
  print("riccardo paoletti 5dit");
   return 0;
+funzione somma
 }
